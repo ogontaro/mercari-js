@@ -1,7 +1,7 @@
 {
   "name": "mercari-js",
   "version": "1.0.0",
-  "description": "api client for mercari",
+  "description": "API client for mercari",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ogontaro/mercari-js.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "ogontaro <ogontaro@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ogontaro/mercari-js/issues"
   },
