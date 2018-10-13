@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ogontaro/mercari-js/issues"
   },
-  "homepage": "https://github.com/ogontaro/mercari-js#readme"
+  "homepage": "https://github.com/ogontaro/mercari-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
