@@ -1,6 +1,7 @@
 export default class Merucari {
   constructor(){
   }
-  search(){
+  search(params){
+    return params
   }
 }
